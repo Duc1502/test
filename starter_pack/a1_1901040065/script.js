@@ -75,4 +75,4 @@ function numberToString(so) {
       }
     return chuoi;
 }
-console.log(numberToString(1234567))
+console.log(numberToString(123456789))
